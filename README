@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1071
+
+:BufOnly without an argument will unload all buffers but the current one.
+
+:BufOnly with an argument will close all buffers but the supplied buffer name/number.
